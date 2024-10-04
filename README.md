@@ -18,7 +18,7 @@ The Smart Home Load Management System is a Python-based application designed to 
 2. Install the required packages:
    ```bash
    pip install pandas matplotlib openpyxl
-##Usage
+## Usage
 
 1. Update the parameters in the script, such as morning, peak, and night rates as well as the threshold for load shifting.
    
